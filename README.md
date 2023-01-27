@@ -31,7 +31,7 @@ This lab demonstrates the implementation of on-premises Active Directory within 
 <h2>Deployment and Configuration Steps</h2>
 <h1>Step 1: Setup Resources in Azure</h1>
 <p>
-- In this first step, we go into our Azer portal to create a new virtual machine.
+- In this first step, we go into our Azure portal to create a new virtual machine.
 </p>
 <p>
 <img src="https://i.imgur.com/q7GGaoS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
