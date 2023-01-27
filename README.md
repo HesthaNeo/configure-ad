@@ -42,9 +42,6 @@ This lab demonstrates the implementation of on-premises Active Directory within 
 <p>
 - We make sure to create a Domain Controller VM using Windows Server 2022 and named it "DC-1".
 </p>
-<p>
-<img src="https://i.imgur.com/qGKcLpa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <br />
 
 <p>
