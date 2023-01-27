@@ -27,16 +27,11 @@
 <h2>Deployment and Configuration Steps</h2>
 <h3>Step 1: Setup Resources in Azure</h3>
     <p>- In this first step, we go into our Azure portal to create a new virtual machine.</p>
-    <br>
         <img src="https://i.imgur.com/q7GGaoS.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-    </br>
-    <br>
         <img src="https://i.imgur.com/qGKcLpa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-    </br>
-    <p>- We make sure to create a Domain Controller VM using Windows Server 2022 and named it "DC-1".</p>
     <br>
+    <p>- We make sure to create a Domain Controller VM using Windows Server 2022 and named it "DC-1".</p>
      <img src="https://i.imgur.com/udM6ozR.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-    </br>
     <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
     </p>
