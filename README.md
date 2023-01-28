@@ -116,36 +116,36 @@
             <br>
                 <img src="https://i.imgur.com/ocY9cDN.png" height="50%" widt="50%"/>
             <p>- Lastly, we'll create a new OU name "_CLIENTS" and drag Client-1 into there.</p>
-                <img src="" height="50%" width="50%"/>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/2aLy47q.png" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/rYBhGBV.png" height="50%" width="50%"/>
         <h3>Step 6: Setup Remote Desktop for Non-Administrative Users on Client-1</h3>
             <p>- First, we'll log back into Client-1 as freeyourmind.com\trinity_admin, and open System Properties.</p>
-                <img src="" height="20%" width="20%"/>
+                <img src="https://i.imgur.com/pZL2aZT.png" height="20%" width="20%"/>
             <br>
-                <img src="" height="20%" width="20%"/>
-            <br>
-                <img src="" height="50%" width="50%"/>
-            <p>- Click "Remote Desktop".</p>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/FD3Zmil.png" height="20%" width="20%"/>
+            <br>    
+                <img src="https://i.imgur.com/ZM8N95x.png" height="50%" width="50%"/>
+            <p>- Click "Remote Desktop".</p>   
+                <img src="https://i.imgur.com/Zn63TlE.png" height="50%" width="50%"/>
             <p>- Allow Domain Users access to Remote Desktop.</p>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/I2i2p8c.png" height="50%" width="50%"/>
             <p>- You can now log into Client-1 as a normal, non-administrative user now.</p>
         <h3>Step 7: Create a bunch of additional users and attempt to log into client-1 with one of the users.</h3>
             <p>- Firstly, to do this, we'll login to the Domain Controller, DC-1, as trinity_admin.</p>
-                <img src="" height="20%" width="20%"/>
+                <img src="https://i.imgur.com/tMQTYTW.png" height="20%" width="20%"/>
             <br>
-                <img src="" height="20%" width="20%"/>
+                <img src="https://i.imgur.com/xBo8CSS.png" height="20%" width="20%"/>
             <br>
             <p>- To continue, we will use PowerShell to implement a script that will create a bunch of users for us as if we were using a real user database.</p>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/AbU5nrc.png" height="50%" width="50%"/>
             <hr>
             <p><em>"This script was received from an outside source." Source: <a>https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1</a></em></p>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/ghDjg2Z.png" height="50%" width="50%"/>
             <p>- We'll run the script and observe all the accounts/users being created.</p>
-                <img src="" height="50%" width="50%"/>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/y5redmp.png" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/ACL9Tdw.png" height="50%" width="50%"/>
             <p>- When finished, open ADUC and observe the accounts in the appropriate OU.</p>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://ibb.co/0FCfmXg" height="50%" width="50%"/>
             <p>- Can now attempt to log into Client-1 with one of the random accounts (take note of the password in the script).</p>
                 <img src="" height="20%" width="20%"/>
             <br>
