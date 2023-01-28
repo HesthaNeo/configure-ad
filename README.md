@@ -34,7 +34,7 @@
             <p>- We make sure to create a Domain Controller VM using Windows Server 2022 and named it "DC-1".</p>
              <img src="https://i.imgur.com/udM6ozR.png" height="50%" width="50%" 
                     alt="Disk Sanitization Steps"/>
-            <p>- Once we  have created our Domain Controller, we go into it's NIC (Network Interface Card) and we make sure we go in to change it's Private IP address so that it is static, and not dynamic. We do this so we can be assured that the IP address will not change, so that our Client PCs can reliability stay connected it's network.</p>
+            <p>- Once we  have created our Domain Controller, we go into it's NIC (Network Interface Card) and we make sure we go in to change it's Private IP address so that it is static, and not dynamic. We do this so we can be assured that the IP address will not change, so that our Client PCs can reliability stay connected to it's network.</p>
                 <img src="https://i.imgur.com/XOE3PAN.png" height="50%" width="50%"/>
             <p>- Next, we create our Client VM running Windows 10. This is what we are going to use to connect to the Domain Controller, and act as an user utilizing the Domain Controller's Services.
                 <hr>- Here you can see our Client VM has been created.
