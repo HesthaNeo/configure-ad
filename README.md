@@ -145,17 +145,17 @@
                 <img src="https://i.imgur.com/y5redmp.png" height="50%" width="50%"/>
                 <img src="https://i.imgur.com/ACL9Tdw.png" height="50%" width="50%"/>
             <p>- When finished, open ADUC and observe the accounts in the appropriate OU.</p>
-                <img src="https://ibb.co/0FCfmXg" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/Hji4FxP.png" height="50%" width="50%"/>
             <p>- Can now attempt to log into Client-1 with one of the random accounts (take note of the password in the script).</p>
-                <img src="" height="20%" width="20%"/>
+                <img src="https://i.imgur.com/DAiP0GS.png" height="20%" width="20%"/>
             <br>
-                <img src="" height="20%" width="20%"/>
+                <img src="https://i.imgur.com/3P2HOIz.png" height="20%" width="20%"/>
             <br>
-                <img src="" height="50%" width="50%"/>
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/cmvfM1u.png" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/UTURCRR.png" height="50%" width="50%"/>
         <h2><strong><em> (Bonus) Demonstration of Changing a Users Password in Active Directory.</em></strong></h2>
-                <img src="" height="50%" width="50%"/>
-                <img src="" height="50%" width="50%"/>
-                <img src="" height="50%" width="50%"/>
-                <img src="" height="50%" width="50%"/>  
-                <img src="" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/Dpozpmq.png" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/X4xhlvS.png" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/0c6XR86.png" height="50%" width="50%"/>
+                <img src="https://i.imgur.com/MOaYNxd.png" height="50%" width="50%"/>  
+                <img src="https://i.imgur.com/aGl4nzj.png" height="50%" width="50%"/>
