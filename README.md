@@ -86,7 +86,7 @@
                 <img src="https://i.imgur.com/EE0kYGA.png" height="50%" width="50%"/>
                 <img src="https://i.imgur.com/LsmPyn8.png" height="50%" width="50%"/>
                 <img src="https://i.imgur.com/N4zVcSM.png" height="50%" width="50%"/>
-            <p>- Now that's created, our next step is to log out, and for now we are using "Trinity 3" as our admin account.</p>
+            <p>- Now that's created, our next step is to log out, and for now on we are using "Trinity 3" as our admin account.</p>
                 <img src="https://i.imgur.com/vu4ippZ.png" height="50%" width="50%"/>
         <h3>Step 5: Join Client-1 to your domain (freeyourmind.com)</h3>
             <p>- First, we need to start back in the Azure Portal, and set Client-1's DNS settings to the Domain Controller's Private IP address.</p>
